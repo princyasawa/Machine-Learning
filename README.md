@@ -1,5 +1,7 @@
-##Dragon Real Estates
+Dragon Real Estates
+
 The task was to predict the prizes of houses with the help of the given features and boston housing data:
+
     1. CRIM      per capita crime rate by town
     2. ZN        proportion of residential land zoned for lots over 
                  25,000 sq.ft.
